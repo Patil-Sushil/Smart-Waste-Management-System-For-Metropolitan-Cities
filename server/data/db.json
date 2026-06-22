@@ -7,10 +7,10 @@
       "lon": 72.8162,
       "fillLevel": 100,
       "weight": 44.7,
-      "temperature": 25.1,
-      "battery": 77,
+      "temperature": 25.3,
+      "battery": 43,
       "status": "Overflow Warning",
-      "lastUpdate": "2026-06-19T08:40:04.978Z"
+      "lastUpdate": "2026-06-22T04:13:52.054Z"
     },
     {
       "id": "bin_02",
@@ -18,11 +18,11 @@
       "lat": 19.0433,
       "lon": 72.8231,
       "fillLevel": 100,
-      "weight": 44.8,
-      "temperature": 25,
-      "battery": 72,
+      "weight": 45,
+      "temperature": 25.1,
+      "battery": 40,
       "status": "Overflow Warning",
-      "lastUpdate": "2026-06-19T08:40:04.979Z"
+      "lastUpdate": "2026-06-22T04:13:52.055Z"
     },
     {
       "id": "bin_03",
@@ -30,11 +30,11 @@
       "lat": 19.1026,
       "lon": 72.8242,
       "fillLevel": 100,
-      "weight": 44.9,
-      "temperature": 25.1,
-      "battery": 70,
+      "weight": 44.6,
+      "temperature": 25.6,
+      "battery": 37,
       "status": "Overflow Warning",
-      "lastUpdate": "2026-06-19T08:40:04.981Z"
+      "lastUpdate": "2026-06-22T04:13:52.055Z"
     },
     {
       "id": "bin_04",
@@ -42,11 +42,11 @@
       "lat": 18.922,
       "lon": 72.8347,
       "fillLevel": 100,
-      "weight": 45.2,
-      "temperature": 24.9,
-      "battery": 80,
+      "weight": 44.8,
+      "temperature": 25,
+      "battery": 46,
       "status": "Overflow Warning",
-      "lastUpdate": "2026-06-19T08:40:04.982Z"
+      "lastUpdate": "2026-06-22T04:13:52.056Z"
     },
     {
       "id": "bin_05",
@@ -54,11 +54,11 @@
       "lat": 18.9438,
       "lon": 72.8232,
       "fillLevel": 100,
-      "weight": 44.8,
-      "temperature": 24.9,
-      "battery": 76,
+      "weight": 45.1,
+      "temperature": 25,
+      "battery": 42,
       "status": "Overflow Warning",
-      "lastUpdate": "2026-06-19T08:40:04.983Z"
+      "lastUpdate": "2026-06-22T04:13:52.056Z"
     },
     {
       "id": "bin_06",
@@ -66,11 +66,11 @@
       "lat": 19.1983,
       "lon": 72.9786,
       "fillLevel": 100,
-      "weight": 45.1,
-      "temperature": 25.1,
+      "weight": 45.5,
+      "temperature": 25.3,
       "battery": 0,
       "status": "Overflow Warning",
-      "lastUpdate": "2026-06-19T08:40:04.984Z"
+      "lastUpdate": "2026-06-22T04:13:52.057Z"
     },
     {
       "id": "bin_07",
@@ -78,11 +78,11 @@
       "lat": 19.0268,
       "lon": 72.8374,
       "fillLevel": 100,
-      "weight": 45.2,
-      "temperature": 25.1,
-      "battery": 65,
+      "weight": 45,
+      "temperature": 25.2,
+      "battery": 32,
       "status": "Overflow Warning",
-      "lastUpdate": "2026-06-19T08:40:04.985Z"
+      "lastUpdate": "2026-06-22T04:13:52.057Z"
     },
     {
       "id": "bin_08",
@@ -91,10 +91,10 @@
       "lon": 72.8278,
       "fillLevel": 100,
       "weight": 44.8,
-      "temperature": 25.1,
-      "battery": 79,
+      "temperature": 24.9,
+      "battery": 45,
       "status": "Overflow Warning",
-      "lastUpdate": "2026-06-19T08:40:04.986Z"
+      "lastUpdate": "2026-06-22T04:13:52.058Z"
     },
     {
       "id": "bin_09",
@@ -102,14 +102,815 @@
       "lat": 19.1334,
       "lon": 72.8354,
       "fillLevel": 100,
-      "weight": 45.1,
-      "temperature": 24.9,
-      "battery": 72,
+      "weight": 44.8,
+      "temperature": 25.3,
+      "battery": 38,
       "status": "Overflow Warning",
-      "lastUpdate": "2026-06-19T08:40:04.987Z"
+      "lastUpdate": "2026-06-22T04:13:52.058Z"
     }
   ],
   "alerts": [
+    {
+      "id": "a_1782100789796_of",
+      "binId": "bin_09",
+      "binName": "Andheri West Link Road Mall",
+      "type": "overflow",
+      "message": "Garbage fill level is at 100%, exceeding threshold of 80%",
+      "time": "2026-06-22T03:59:49.796Z",
+      "resolved": false
+    },
+    {
+      "id": "a_1782100789794_of",
+      "binId": "bin_08",
+      "binName": "Colaba Causeway Shopping St",
+      "type": "overflow",
+      "message": "Garbage fill level is at 100%, exceeding threshold of 80%",
+      "time": "2026-06-22T03:59:49.794Z",
+      "resolved": false
+    },
+    {
+      "id": "a_1782100789792_of",
+      "binId": "bin_07",
+      "binName": "Dadar Shivaji Park Gate 3",
+      "type": "overflow",
+      "message": "Garbage fill level is at 100%, exceeding threshold of 80%",
+      "time": "2026-06-22T03:59:49.792Z",
+      "resolved": false
+    },
+    {
+      "id": "a_1782100789791_of",
+      "binId": "bin_06",
+      "binName": "Dadaji Kondadev Stadium Area",
+      "type": "overflow",
+      "message": "Garbage fill level is at 100%, exceeding threshold of 80%",
+      "time": "2026-06-22T03:59:49.791Z",
+      "resolved": false
+    },
+    {
+      "id": "a_1782100789789_of",
+      "binId": "bin_05",
+      "binName": "Marine Drive Flyover",
+      "type": "overflow",
+      "message": "Garbage fill level is at 100%, exceeding threshold of 80%",
+      "time": "2026-06-22T03:59:49.789Z",
+      "resolved": false
+    },
+    {
+      "id": "a_1782100789787_of",
+      "binId": "bin_04",
+      "binName": "Gateway of India Plaza",
+      "type": "overflow",
+      "message": "Garbage fill level is at 100%, exceeding threshold of 80%",
+      "time": "2026-06-22T03:59:49.787Z",
+      "resolved": false
+    },
+    {
+      "id": "a_1782100789785_of",
+      "binId": "bin_03",
+      "binName": "Juhu Beach Promenade",
+      "type": "overflow",
+      "message": "Garbage fill level is at 100%, exceeding threshold of 80%",
+      "time": "2026-06-22T03:59:49.785Z",
+      "resolved": false
+    },
+    {
+      "id": "a_1782100789783_of",
+      "binId": "bin_02",
+      "binName": "Bandra Reclamation Park",
+      "type": "overflow",
+      "message": "Garbage fill level is at 100%, exceeding threshold of 80%",
+      "time": "2026-06-22T03:59:49.783Z",
+      "resolved": false
+    },
+    {
+      "id": "a_1782100789781_of",
+      "binId": "bin_01",
+      "binName": "Worli Sea Face North",
+      "type": "overflow",
+      "message": "Garbage fill level is at 100%, exceeding threshold of 80%",
+      "time": "2026-06-22T03:59:49.781Z",
+      "resolved": false
+    },
+    {
+      "id": "a_1782100744642_of",
+      "binId": "bin_08",
+      "binName": "Colaba Causeway Shopping St",
+      "type": "overflow",
+      "message": "Garbage fill level is at 100%, exceeding threshold of 80%",
+      "time": "2026-06-22T03:59:04.642Z",
+      "resolved": true
+    },
+    {
+      "id": "a_1782100741619_of",
+      "binId": "bin_09",
+      "binName": "Andheri West Link Road Mall",
+      "type": "overflow",
+      "message": "Garbage fill level is at 100%, exceeding threshold of 80%",
+      "time": "2026-06-22T03:59:01.619Z",
+      "resolved": true
+    },
+    {
+      "id": "a_1782100711525_of",
+      "binId": "bin_09",
+      "binName": "Andheri West Link Road Mall",
+      "type": "overflow",
+      "message": "Garbage fill level is at 100%, exceeding threshold of 80%",
+      "time": "2026-06-22T03:58:31.525Z",
+      "resolved": true
+    },
+    {
+      "id": "a_1782100711521_of",
+      "binId": "bin_08",
+      "binName": "Colaba Causeway Shopping St",
+      "type": "overflow",
+      "message": "Garbage fill level is at 100%, exceeding threshold of 80%",
+      "time": "2026-06-22T03:58:31.521Z",
+      "resolved": true
+    },
+    {
+      "id": "a_1782100711519_of",
+      "binId": "bin_07",
+      "binName": "Dadar Shivaji Park Gate 3",
+      "type": "overflow",
+      "message": "Garbage fill level is at 100%, exceeding threshold of 80%",
+      "time": "2026-06-22T03:58:31.519Z",
+      "resolved": true
+    },
+    {
+      "id": "a_1782100711515_of",
+      "binId": "bin_06",
+      "binName": "Dadaji Kondadev Stadium Area",
+      "type": "overflow",
+      "message": "Garbage fill level is at 100%, exceeding threshold of 80%",
+      "time": "2026-06-22T03:58:31.515Z",
+      "resolved": true
+    },
+    {
+      "id": "a_1782100711513_of",
+      "binId": "bin_05",
+      "binName": "Marine Drive Flyover",
+      "type": "overflow",
+      "message": "Garbage fill level is at 100%, exceeding threshold of 80%",
+      "time": "2026-06-22T03:58:31.513Z",
+      "resolved": true
+    },
+    {
+      "id": "a_1782100711511_of",
+      "binId": "bin_04",
+      "binName": "Gateway of India Plaza",
+      "type": "overflow",
+      "message": "Garbage fill level is at 100%, exceeding threshold of 80%",
+      "time": "2026-06-22T03:58:31.511Z",
+      "resolved": true
+    },
+    {
+      "id": "a_1782100711510_of",
+      "binId": "bin_03",
+      "binName": "Juhu Beach Promenade",
+      "type": "overflow",
+      "message": "Garbage fill level is at 100%, exceeding threshold of 80%",
+      "time": "2026-06-22T03:58:31.510Z",
+      "resolved": true
+    },
+    {
+      "id": "a_1782100711508_of",
+      "binId": "bin_02",
+      "binName": "Bandra Reclamation Park",
+      "type": "overflow",
+      "message": "Garbage fill level is at 100%, exceeding threshold of 80%",
+      "time": "2026-06-22T03:58:31.508Z",
+      "resolved": true
+    },
+    {
+      "id": "a_1782100711506_of",
+      "binId": "bin_01",
+      "binName": "Worli Sea Face North",
+      "type": "overflow",
+      "message": "Garbage fill level is at 100%, exceeding threshold of 80%",
+      "time": "2026-06-22T03:58:31.506Z",
+      "resolved": true
+    },
+    {
+      "id": "a_1781971098640_of",
+      "binId": "bin_01",
+      "binName": "Worli Sea Face North",
+      "type": "overflow",
+      "message": "Garbage fill level is at 100%, exceeding threshold of 80%",
+      "time": "2026-06-20T15:58:18.640Z",
+      "resolved": true
+    },
+    {
+      "id": "a_1781971086607_of",
+      "binId": "bin_09",
+      "binName": "Andheri West Link Road Mall",
+      "type": "overflow",
+      "message": "Garbage fill level is at 100%, exceeding threshold of 80%",
+      "time": "2026-06-20T15:58:06.607Z",
+      "resolved": true
+    },
+    {
+      "id": "a_1781971086605_of",
+      "binId": "bin_08",
+      "binName": "Colaba Causeway Shopping St",
+      "type": "overflow",
+      "message": "Garbage fill level is at 100%, exceeding threshold of 80%",
+      "time": "2026-06-20T15:58:06.605Z",
+      "resolved": true
+    },
+    {
+      "id": "a_1781971086603_of",
+      "binId": "bin_07",
+      "binName": "Dadar Shivaji Park Gate 3",
+      "type": "overflow",
+      "message": "Garbage fill level is at 100%, exceeding threshold of 80%",
+      "time": "2026-06-20T15:58:06.603Z",
+      "resolved": true
+    },
+    {
+      "id": "a_1781971086602_of",
+      "binId": "bin_06",
+      "binName": "Dadaji Kondadev Stadium Area",
+      "type": "overflow",
+      "message": "Garbage fill level is at 100%, exceeding threshold of 80%",
+      "time": "2026-06-20T15:58:06.602Z",
+      "resolved": true
+    },
+    {
+      "id": "a_1781971086600_of",
+      "binId": "bin_05",
+      "binName": "Marine Drive Flyover",
+      "type": "overflow",
+      "message": "Garbage fill level is at 100%, exceeding threshold of 80%",
+      "time": "2026-06-20T15:58:06.600Z",
+      "resolved": true
+    },
+    {
+      "id": "a_1781971086599_of",
+      "binId": "bin_04",
+      "binName": "Gateway of India Plaza",
+      "type": "overflow",
+      "message": "Garbage fill level is at 100%, exceeding threshold of 80%",
+      "time": "2026-06-20T15:58:06.599Z",
+      "resolved": true
+    },
+    {
+      "id": "a_1781971086597_of",
+      "binId": "bin_03",
+      "binName": "Juhu Beach Promenade",
+      "type": "overflow",
+      "message": "Garbage fill level is at 100%, exceeding threshold of 80%",
+      "time": "2026-06-20T15:58:06.598Z",
+      "resolved": true
+    },
+    {
+      "id": "a_1781971086596_of",
+      "binId": "bin_02",
+      "binName": "Bandra Reclamation Park",
+      "type": "overflow",
+      "message": "Garbage fill level is at 100%, exceeding threshold of 80%",
+      "time": "2026-06-20T15:58:06.596Z",
+      "resolved": true
+    },
+    {
+      "id": "a_1781971086594_of",
+      "binId": "bin_01",
+      "binName": "Worli Sea Face North",
+      "type": "overflow",
+      "message": "Garbage fill level is at 100%, exceeding threshold of 80%",
+      "time": "2026-06-20T15:58:06.595Z",
+      "resolved": true
+    },
+    {
+      "id": "a_1781872431942_of",
+      "binId": "bin_09",
+      "binName": "Andheri West Link Road Mall",
+      "type": "overflow",
+      "message": "Garbage fill level is at 100%, exceeding threshold of 80%",
+      "time": "2026-06-19T12:33:51.942Z",
+      "resolved": true
+    },
+    {
+      "id": "a_1781872431941_of",
+      "binId": "bin_08",
+      "binName": "Colaba Causeway Shopping St",
+      "type": "overflow",
+      "message": "Garbage fill level is at 100%, exceeding threshold of 80%",
+      "time": "2026-06-19T12:33:51.941Z",
+      "resolved": true
+    },
+    {
+      "id": "a_1781872431941_of",
+      "binId": "bin_07",
+      "binName": "Dadar Shivaji Park Gate 3",
+      "type": "overflow",
+      "message": "Garbage fill level is at 100%, exceeding threshold of 80%",
+      "time": "2026-06-19T12:33:51.941Z",
+      "resolved": true
+    },
+    {
+      "id": "a_1781872431940_of",
+      "binId": "bin_06",
+      "binName": "Dadaji Kondadev Stadium Area",
+      "type": "overflow",
+      "message": "Garbage fill level is at 100%, exceeding threshold of 80%",
+      "time": "2026-06-19T12:33:51.940Z",
+      "resolved": true
+    },
+    {
+      "id": "a_1781872431940_of",
+      "binId": "bin_05",
+      "binName": "Marine Drive Flyover",
+      "type": "overflow",
+      "message": "Garbage fill level is at 100%, exceeding threshold of 80%",
+      "time": "2026-06-19T12:33:51.940Z",
+      "resolved": true
+    },
+    {
+      "id": "a_1781872431939_of",
+      "binId": "bin_04",
+      "binName": "Gateway of India Plaza",
+      "type": "overflow",
+      "message": "Garbage fill level is at 100%, exceeding threshold of 80%",
+      "time": "2026-06-19T12:33:51.939Z",
+      "resolved": true
+    },
+    {
+      "id": "a_1781872431938_of",
+      "binId": "bin_03",
+      "binName": "Juhu Beach Promenade",
+      "type": "overflow",
+      "message": "Garbage fill level is at 100%, exceeding threshold of 80%",
+      "time": "2026-06-19T12:33:51.938Z",
+      "resolved": true
+    },
+    {
+      "id": "a_1781872431938_of",
+      "binId": "bin_02",
+      "binName": "Bandra Reclamation Park",
+      "type": "overflow",
+      "message": "Garbage fill level is at 100%, exceeding threshold of 80%",
+      "time": "2026-06-19T12:33:51.938Z",
+      "resolved": true
+    },
+    {
+      "id": "a_1781872431937_of",
+      "binId": "bin_01",
+      "binName": "Worli Sea Face North",
+      "type": "overflow",
+      "message": "Garbage fill level is at 100%, exceeding threshold of 80%",
+      "time": "2026-06-19T12:33:51.937Z",
+      "resolved": true
+    },
+    {
+      "id": "a_1781872410867_of",
+      "binId": "bin_09",
+      "binName": "Andheri West Link Road Mall",
+      "type": "overflow",
+      "message": "Garbage fill level is at 100%, exceeding threshold of 80%",
+      "time": "2026-06-19T12:33:30.867Z",
+      "resolved": true
+    },
+    {
+      "id": "a_1781872410867_of",
+      "binId": "bin_08",
+      "binName": "Colaba Causeway Shopping St",
+      "type": "overflow",
+      "message": "Garbage fill level is at 100%, exceeding threshold of 80%",
+      "time": "2026-06-19T12:33:30.867Z",
+      "resolved": true
+    },
+    {
+      "id": "a_1781872410866_of",
+      "binId": "bin_07",
+      "binName": "Dadar Shivaji Park Gate 3",
+      "type": "overflow",
+      "message": "Garbage fill level is at 100%, exceeding threshold of 80%",
+      "time": "2026-06-19T12:33:30.866Z",
+      "resolved": true
+    },
+    {
+      "id": "a_1781872410866_of",
+      "binId": "bin_06",
+      "binName": "Dadaji Kondadev Stadium Area",
+      "type": "overflow",
+      "message": "Garbage fill level is at 100%, exceeding threshold of 80%",
+      "time": "2026-06-19T12:33:30.866Z",
+      "resolved": true
+    },
+    {
+      "id": "a_1781872410865_of",
+      "binId": "bin_05",
+      "binName": "Marine Drive Flyover",
+      "type": "overflow",
+      "message": "Garbage fill level is at 100%, exceeding threshold of 80%",
+      "time": "2026-06-19T12:33:30.865Z",
+      "resolved": true
+    },
+    {
+      "id": "a_1781872410865_of",
+      "binId": "bin_04",
+      "binName": "Gateway of India Plaza",
+      "type": "overflow",
+      "message": "Garbage fill level is at 100%, exceeding threshold of 80%",
+      "time": "2026-06-19T12:33:30.865Z",
+      "resolved": true
+    },
+    {
+      "id": "a_1781872410864_of",
+      "binId": "bin_03",
+      "binName": "Juhu Beach Promenade",
+      "type": "overflow",
+      "message": "Garbage fill level is at 100%, exceeding threshold of 80%",
+      "time": "2026-06-19T12:33:30.864Z",
+      "resolved": true
+    },
+    {
+      "id": "a_1781872410863_of",
+      "binId": "bin_02",
+      "binName": "Bandra Reclamation Park",
+      "type": "overflow",
+      "message": "Garbage fill level is at 100%, exceeding threshold of 80%",
+      "time": "2026-06-19T12:33:30.863Z",
+      "resolved": true
+    },
+    {
+      "id": "a_1781872410862_of",
+      "binId": "bin_01",
+      "binName": "Worli Sea Face North",
+      "type": "overflow",
+      "message": "Garbage fill level is at 100%, exceeding threshold of 80%",
+      "time": "2026-06-19T12:33:30.862Z",
+      "resolved": true
+    },
+    {
+      "id": "a_1781872374777_of",
+      "binId": "bin_09",
+      "binName": "Andheri West Link Road Mall",
+      "type": "overflow",
+      "message": "Garbage fill level is at 100%, exceeding threshold of 80%",
+      "time": "2026-06-19T12:32:54.777Z",
+      "resolved": true
+    },
+    {
+      "id": "a_1781872371768_of",
+      "binId": "bin_09",
+      "binName": "Andheri West Link Road Mall",
+      "type": "overflow",
+      "message": "Garbage fill level is at 100%, exceeding threshold of 80%",
+      "time": "2026-06-19T12:32:51.768Z",
+      "resolved": true
+    },
+    {
+      "id": "a_1781872368759_of",
+      "binId": "bin_09",
+      "binName": "Andheri West Link Road Mall",
+      "type": "overflow",
+      "message": "Garbage fill level is at 100%, exceeding threshold of 80%",
+      "time": "2026-06-19T12:32:48.759Z",
+      "resolved": true
+    },
+    {
+      "id": "a_1781872362744_of",
+      "binId": "bin_09",
+      "binName": "Andheri West Link Road Mall",
+      "type": "overflow",
+      "message": "Garbage fill level is at 100%, exceeding threshold of 80%",
+      "time": "2026-06-19T12:32:42.744Z",
+      "resolved": true
+    },
+    {
+      "id": "a_1781872362743_of",
+      "binId": "bin_08",
+      "binName": "Colaba Causeway Shopping St",
+      "type": "overflow",
+      "message": "Garbage fill level is at 100%, exceeding threshold of 80%",
+      "time": "2026-06-19T12:32:42.743Z",
+      "resolved": true
+    },
+    {
+      "id": "a_1781872362742_of",
+      "binId": "bin_07",
+      "binName": "Dadar Shivaji Park Gate 3",
+      "type": "overflow",
+      "message": "Garbage fill level is at 100%, exceeding threshold of 80%",
+      "time": "2026-06-19T12:32:42.742Z",
+      "resolved": true
+    },
+    {
+      "id": "a_1781872362742_of",
+      "binId": "bin_06",
+      "binName": "Dadaji Kondadev Stadium Area",
+      "type": "overflow",
+      "message": "Garbage fill level is at 100%, exceeding threshold of 80%",
+      "time": "2026-06-19T12:32:42.742Z",
+      "resolved": true
+    },
+    {
+      "id": "a_1781872362741_of",
+      "binId": "bin_05",
+      "binName": "Marine Drive Flyover",
+      "type": "overflow",
+      "message": "Garbage fill level is at 100%, exceeding threshold of 80%",
+      "time": "2026-06-19T12:32:42.741Z",
+      "resolved": true
+    },
+    {
+      "id": "a_1781872362741_of",
+      "binId": "bin_04",
+      "binName": "Gateway of India Plaza",
+      "type": "overflow",
+      "message": "Garbage fill level is at 100%, exceeding threshold of 80%",
+      "time": "2026-06-19T12:32:42.741Z",
+      "resolved": true
+    },
+    {
+      "id": "a_1781872362740_of",
+      "binId": "bin_03",
+      "binName": "Juhu Beach Promenade",
+      "type": "overflow",
+      "message": "Garbage fill level is at 100%, exceeding threshold of 80%",
+      "time": "2026-06-19T12:32:42.740Z",
+      "resolved": true
+    },
+    {
+      "id": "a_1781872362739_of",
+      "binId": "bin_02",
+      "binName": "Bandra Reclamation Park",
+      "type": "overflow",
+      "message": "Garbage fill level is at 100%, exceeding threshold of 80%",
+      "time": "2026-06-19T12:32:42.739Z",
+      "resolved": true
+    },
+    {
+      "id": "a_1781872362738_of",
+      "binId": "bin_01",
+      "binName": "Worli Sea Face North",
+      "type": "overflow",
+      "message": "Garbage fill level is at 100%, exceeding threshold of 80%",
+      "time": "2026-06-19T12:32:42.738Z",
+      "resolved": true
+    },
+    {
+      "id": "a_1781872356722_of",
+      "binId": "bin_09",
+      "binName": "Andheri West Link Road Mall",
+      "type": "overflow",
+      "message": "Garbage fill level is at 100%, exceeding threshold of 80%",
+      "time": "2026-06-19T12:32:36.722Z",
+      "resolved": true
+    },
+    {
+      "id": "a_1781872353706_of",
+      "binId": "bin_09",
+      "binName": "Andheri West Link Road Mall",
+      "type": "overflow",
+      "message": "Garbage fill level is at 100%, exceeding threshold of 80%",
+      "time": "2026-06-19T12:32:33.706Z",
+      "resolved": true
+    },
+    {
+      "id": "a_1781872350696_of",
+      "binId": "bin_09",
+      "binName": "Andheri West Link Road Mall",
+      "type": "overflow",
+      "message": "Garbage fill level is at 100%, exceeding threshold of 80%",
+      "time": "2026-06-19T12:32:30.696Z",
+      "resolved": true
+    },
+    {
+      "id": "a_1781872341656_of",
+      "binId": "bin_01",
+      "binName": "Worli Sea Face North",
+      "type": "overflow",
+      "message": "Garbage fill level is at 100%, exceeding threshold of 80%",
+      "time": "2026-06-19T12:32:21.656Z",
+      "resolved": true
+    },
+    {
+      "id": "a_1781871755054_of",
+      "binId": "bin_09",
+      "binName": "Andheri West Link Road Mall",
+      "type": "overflow",
+      "message": "Garbage fill level is at 100%, exceeding threshold of 80%",
+      "time": "2026-06-19T12:22:35.054Z",
+      "resolved": true
+    },
+    {
+      "id": "a_1781871755053_of",
+      "binId": "bin_08",
+      "binName": "Colaba Causeway Shopping St",
+      "type": "overflow",
+      "message": "Garbage fill level is at 96.2%, exceeding threshold of 80%",
+      "time": "2026-06-19T12:22:35.053Z",
+      "resolved": true
+    },
+    {
+      "id": "a_1781871755053_of",
+      "binId": "bin_07",
+      "binName": "Dadar Shivaji Park Gate 3",
+      "type": "overflow",
+      "message": "Garbage fill level is at 100%, exceeding threshold of 80%",
+      "time": "2026-06-19T12:22:35.053Z",
+      "resolved": true
+    },
+    {
+      "id": "a_1781871755053_of",
+      "binId": "bin_06",
+      "binName": "Dadaji Kondadev Stadium Area",
+      "type": "overflow",
+      "message": "Garbage fill level is at 100%, exceeding threshold of 80%",
+      "time": "2026-06-19T12:22:35.053Z",
+      "resolved": true
+    },
+    {
+      "id": "a_1781871755052_of",
+      "binId": "bin_05",
+      "binName": "Marine Drive Flyover",
+      "type": "overflow",
+      "message": "Garbage fill level is at 100%, exceeding threshold of 80%",
+      "time": "2026-06-19T12:22:35.052Z",
+      "resolved": true
+    },
+    {
+      "id": "a_1781871755052_of",
+      "binId": "bin_04",
+      "binName": "Gateway of India Plaza",
+      "type": "overflow",
+      "message": "Garbage fill level is at 96.1%, exceeding threshold of 80%",
+      "time": "2026-06-19T12:22:35.052Z",
+      "resolved": true
+    },
+    {
+      "id": "a_1781871755051_of",
+      "binId": "bin_03",
+      "binName": "Juhu Beach Promenade",
+      "type": "overflow",
+      "message": "Garbage fill level is at 100%, exceeding threshold of 80%",
+      "time": "2026-06-19T12:22:35.051Z",
+      "resolved": true
+    },
+    {
+      "id": "a_1781871755051_of",
+      "binId": "bin_02",
+      "binName": "Bandra Reclamation Park",
+      "type": "overflow",
+      "message": "Garbage fill level is at 100%, exceeding threshold of 80%",
+      "time": "2026-06-19T12:22:35.051Z",
+      "resolved": true
+    },
+    {
+      "id": "a_1781871755050_of",
+      "binId": "bin_01",
+      "binName": "Worli Sea Face North",
+      "type": "overflow",
+      "message": "Garbage fill level is at 100%, exceeding threshold of 80%",
+      "time": "2026-06-19T12:22:35.050Z",
+      "resolved": true
+    },
+    {
+      "id": "a_1781871746025_of",
+      "binId": "bin_09",
+      "binName": "Andheri West Link Road Mall",
+      "type": "overflow",
+      "message": "Garbage fill level is at 100%, exceeding threshold of 80%",
+      "time": "2026-06-19T12:22:26.025Z",
+      "resolved": true
+    },
+    {
+      "id": "a_1781871746024_of",
+      "binId": "bin_08",
+      "binName": "Colaba Causeway Shopping St",
+      "type": "overflow",
+      "message": "Garbage fill level is at 93.9%, exceeding threshold of 80%",
+      "time": "2026-06-19T12:22:26.024Z",
+      "resolved": true
+    },
+    {
+      "id": "a_1781871746023_of",
+      "binId": "bin_07",
+      "binName": "Dadar Shivaji Park Gate 3",
+      "type": "overflow",
+      "message": "Garbage fill level is at 100%, exceeding threshold of 80%",
+      "time": "2026-06-19T12:22:26.023Z",
+      "resolved": true
+    },
+    {
+      "id": "a_1781871746023_of",
+      "binId": "bin_06",
+      "binName": "Dadaji Kondadev Stadium Area",
+      "type": "overflow",
+      "message": "Garbage fill level is at 97.5%, exceeding threshold of 80%",
+      "time": "2026-06-19T12:22:26.023Z",
+      "resolved": true
+    },
+    {
+      "id": "a_1781871746022_of",
+      "binId": "bin_05",
+      "binName": "Marine Drive Flyover",
+      "type": "overflow",
+      "message": "Garbage fill level is at 100%, exceeding threshold of 80%",
+      "time": "2026-06-19T12:22:26.022Z",
+      "resolved": true
+    },
+    {
+      "id": "a_1781871746022_of",
+      "binId": "bin_04",
+      "binName": "Gateway of India Plaza",
+      "type": "overflow",
+      "message": "Garbage fill level is at 86.6%, exceeding threshold of 80%",
+      "time": "2026-06-19T12:22:26.022Z",
+      "resolved": true
+    },
+    {
+      "id": "a_1781871746021_of",
+      "binId": "bin_03",
+      "binName": "Juhu Beach Promenade",
+      "type": "overflow",
+      "message": "Garbage fill level is at 100%, exceeding threshold of 80%",
+      "time": "2026-06-19T12:22:26.021Z",
+      "resolved": true
+    },
+    {
+      "id": "a_1781871746020_of",
+      "binId": "bin_02",
+      "binName": "Bandra Reclamation Park",
+      "type": "overflow",
+      "message": "Garbage fill level is at 100%, exceeding threshold of 80%",
+      "time": "2026-06-19T12:22:26.020Z",
+      "resolved": true
+    },
+    {
+      "id": "a_1781871746019_of",
+      "binId": "bin_01",
+      "binName": "Worli Sea Face North",
+      "type": "overflow",
+      "message": "Garbage fill level is at 100%, exceeding threshold of 80%",
+      "time": "2026-06-19T12:22:26.019Z",
+      "resolved": true
+    },
+    {
+      "id": "a_1781871743007_of",
+      "binId": "bin_04",
+      "binName": "Gateway of India Plaza",
+      "type": "overflow",
+      "message": "Garbage fill level is at 86.4%, exceeding threshold of 80%",
+      "time": "2026-06-19T12:22:23.007Z",
+      "resolved": true
+    },
+    {
+      "id": "a_1781871697854_of",
+      "binId": "bin_08",
+      "binName": "Colaba Causeway Shopping St",
+      "type": "overflow",
+      "message": "Garbage fill level is at 80.4%, exceeding threshold of 80%",
+      "time": "2026-06-19T12:21:37.854Z",
+      "resolved": true
+    },
+    {
+      "id": "a_1781871688823_of",
+      "binId": "bin_06",
+      "binName": "Dadaji Kondadev Stadium Area",
+      "type": "overflow",
+      "message": "Garbage fill level is at 80.3%, exceeding threshold of 80%",
+      "time": "2026-06-19T12:21:28.823Z",
+      "resolved": true
+    },
+    {
+      "id": "a_1781871688821_of",
+      "binId": "bin_01",
+      "binName": "Worli Sea Face North",
+      "type": "overflow",
+      "message": "Garbage fill level is at 81.1%, exceeding threshold of 80%",
+      "time": "2026-06-19T12:21:28.821Z",
+      "resolved": true
+    },
+    {
+      "id": "a_1781871655733_of",
+      "binId": "bin_07",
+      "binName": "Dadar Shivaji Park Gate 3",
+      "type": "overflow",
+      "message": "Garbage fill level is at 80.3%, exceeding threshold of 80%",
+      "time": "2026-06-19T12:20:55.733Z",
+      "resolved": true
+    },
+    {
+      "id": "a_1781871607609_of",
+      "binId": "bin_02",
+      "binName": "Bandra Reclamation Park",
+      "type": "overflow",
+      "message": "Garbage fill level is at 80.1%, exceeding threshold of 80%",
+      "time": "2026-06-19T12:20:07.609Z",
+      "resolved": true
+    },
+    {
+      "id": "a_1781871604599_temp",
+      "binId": "bin_07",
+      "binName": "Dadar Shivaji Park Gate 3",
+      "type": "temperature",
+      "message": "High temperature detected (57.7°C) - Potential fire hazard!",
+      "time": "2026-06-19T12:20:04.599Z",
+      "resolved": true
+    },
     {
       "id": "a_1781853659318_of",
       "binId": "bin_09",
@@ -117,7 +918,7 @@
       "type": "overflow",
       "message": "Garbage fill level is at 100%, exceeding threshold of 80%",
       "time": "2026-06-19T07:20:59.318Z",
-      "resolved": false
+      "resolved": true
     },
     {
       "id": "a_1781853659317_of",
@@ -126,7 +927,7 @@
       "type": "overflow",
       "message": "Garbage fill level is at 100%, exceeding threshold of 80%",
       "time": "2026-06-19T07:20:59.317Z",
-      "resolved": false
+      "resolved": true
     },
     {
       "id": "a_1781853659315_of",
@@ -135,7 +936,7 @@
       "type": "overflow",
       "message": "Garbage fill level is at 100%, exceeding threshold of 80%",
       "time": "2026-06-19T07:20:59.315Z",
-      "resolved": false
+      "resolved": true
     },
     {
       "id": "a_1781853659313_of",
@@ -144,7 +945,7 @@
       "type": "overflow",
       "message": "Garbage fill level is at 100%, exceeding threshold of 80%",
       "time": "2026-06-19T07:20:59.313Z",
-      "resolved": false
+      "resolved": true
     },
     {
       "id": "a_1781853659312_of",
@@ -153,7 +954,7 @@
       "type": "overflow",
       "message": "Garbage fill level is at 100%, exceeding threshold of 80%",
       "time": "2026-06-19T07:20:59.312Z",
-      "resolved": false
+      "resolved": true
     },
     {
       "id": "a_1781853659310_of",
@@ -162,7 +963,7 @@
       "type": "overflow",
       "message": "Garbage fill level is at 100%, exceeding threshold of 80%",
       "time": "2026-06-19T07:20:59.310Z",
-      "resolved": false
+      "resolved": true
     },
     {
       "id": "a_1781853659307_of",
@@ -171,7 +972,7 @@
       "type": "overflow",
       "message": "Garbage fill level is at 100%, exceeding threshold of 80%",
       "time": "2026-06-19T07:20:59.308Z",
-      "resolved": false
+      "resolved": true
     },
     {
       "id": "a_01",
@@ -180,7 +981,7 @@
       "type": "overflow",
       "message": "Garbage fill level is at 92%, exceeding threshold of 80%",
       "time": "2026-06-19T07:20:57.065Z",
-      "resolved": false
+      "resolved": true
     },
     {
       "id": "a_02",
@@ -189,7 +990,7 @@
       "type": "overflow",
       "message": "Garbage fill level is at 85%, exceeding threshold of 80%",
       "time": "2026-06-19T07:20:57.065Z",
-      "resolved": false
+      "resolved": true
     },
     {
       "id": "a_03",
